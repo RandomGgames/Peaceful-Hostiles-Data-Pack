@@ -1,2 +1,2 @@
 team join Friendly @a
-execute as @e[type=#minecraft:hostiles,team=!Friendly] run team join Friendly
+team join Friendly @e[type=#peaceful_hostiles:hostiles,team=!Friendly]
